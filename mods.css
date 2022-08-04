@@ -1,0 +1,52 @@
+body {
+  font-family: 'Uchen', serif;
+}
+
+.le1-h1 {
+  text-shadow: 2px 2px 5px red;
+}
+
+.le2-h1 {
+  text-shadow: 2px 2px 5px red;
+}
+
+.le3-h1 {
+  text-shadow: 2px 2px 5px red;
+}
+
+.mea-h1 {
+  text-shadow: 2px 2px 5px red;
+}
+
+.le1-table {
+  column-count: 3;
+}
+
+table,
+th,
+td {
+  width: auto;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+td {
+  padding: 10px;
+  text-align: left;
+  border-right: red;
+}
+
+th {
+  background-color: #000;
+  color: white;
+  font-weight: bold;
+}
+
+td:hover {
+  background-color: rgb(157, 255, 10);
+}
+
+a {
+  word-spacing: 5px;
+  color: black;
+}
